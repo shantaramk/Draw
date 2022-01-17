@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T09:46:32.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mpjH2ejNxOWPfR2Uczah" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T09:48:01.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="hsgVquRtTztZaO3f_RnB" version="16.2.7" type="github">
   <diagram id="M_UMX7MgJglkLOT9DgPO" name="Page-1">
-    <mxGraphModel dx="1623" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1623" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,9 @@
             <mxPoint x="450" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9SRyMQj4g3zSV4F6ILFF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SRyMQj4g3zSV4F6ILFF-21" target="9SRyMQj4g3zSV4F6ILFF-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9SRyMQj4g3zSV4F6ILFF-21" value="Modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="40" as="geometry" />
         </mxCell>
@@ -125,6 +128,9 @@
         </mxCell>
         <mxCell id="9SRyMQj4g3zSV4F6ILFF-52" value="Add Folder As per requirement here" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1070" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9SRyMQj4g3zSV4F6ILFF-56" value="Upload Document screen etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
